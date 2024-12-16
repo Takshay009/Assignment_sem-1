@@ -3,10 +3,10 @@
 int main() 
 {
 
-    // 1. value of sum 
+    1. value of sum 
 
-    // int a = 15, b = 25;
-    // printf("The sum of a and b is %d",a+b);
+    int a = 15, b = 25;
+    printf("The sum of a and b is %d",a+b);
 
 
     // 2. variable define
@@ -112,15 +112,15 @@ int main()
 
     // 10. swapping variable    
 
-    int a = 10, b = 20 , temp;
-    temp = a;
-    a = b;
-    b = temp;
+    // int a = 10, b = 20 , temp;
+    // temp = a;
+    // a = b;
+    // b = temp;
 
-    printf("The value of a is %d\n",a);
-    printf("The value of b is %d\n",b);
+    // printf("The value of a is %d\n",a);
+    // printf("The value of b is %d\n",b);
 
-    return 0;       
+    // return 0;       
 
 
     // Thank you  (\../)
